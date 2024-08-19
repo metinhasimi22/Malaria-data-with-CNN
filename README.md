@@ -7,6 +7,8 @@ source :  https://www.kaggle.com/datasets/iarunava/cell-images-for-detecting-mal
 Malaria is a life-threatening disease caused by parasites transmitted through the bites of infected mosquitoes. Analyzing data related to malaria helps in understanding its spread, identifying high-risk areas, and implementing effective control measures.
 
 ---
+![Uploading malaria.png…]()
+
 
 #### 📊 **Key Data Points to Analyze:**
 
